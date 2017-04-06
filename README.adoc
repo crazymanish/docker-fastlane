@@ -1,0 +1,6 @@
+= Images for Fastlane
+
+[source,bash]
+----
+docker pull eddumelendez/fastlane
+----
